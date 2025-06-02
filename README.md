@@ -1,3 +1,16 @@
+<p align="center">
+  <a href="https://go.avnxt.site/f590b7c88098b510?erid=2VfnxwX3fVa&m=1" target="_blank">
+    <img src="https://img.shields.io/badge/Вход_в_личный_кабинет-blue?style=for-the-badge" alt="Вход">
+  </a>
+  <a href="https://go.avnxt.site/f590b7c88098b510?erid=2VfnxwX3fVa&m=1" target="_blank">
+    <img src="https://img.shields.io/badge/Регистрация_кабинета-green?style=for-the-badge" alt="Регистрация">
+  </a>
+  <a href="https://go.avnxt.site/f590b7c88098b510?erid=2VfnxwX3fVa&m=1" target="_blank">
+    <img src="https://img.shields.io/badge/Восстановить_пароль-red?style=for-the-badge" alt="Восстановить пароль">
+  </a>
+</p>
+
+
 <h1>Личный кабинет Джум | Вход в личный кабинет интернет-магазина</h1> 
 <p>
   <a href="https://go.avnxt.site/f590b7c88098b510?erid=2VfnxwX3fVa&m=1" target="_blank"><b>Личный кабинет Джум</b></a> — это ваш персональный центр управления покупками и заказами на популярной площадке 
